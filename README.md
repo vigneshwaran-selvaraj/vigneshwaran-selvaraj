@@ -1,16 +1,18 @@
-## Hi there 👋
+# My Career Profile
 
-<!--
-**vigneshwaran-selvaraj/vigneshwaran-selvaraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Education
 
-Here are some ideas to get you started:
+| Course | Institution | Period |
+|---|---|---|
+|B.E(ECE)| Jaya enggineering college | 2018 - 2022|
+| HSC | Maharish vidya mandir | 2016 - 2018 |
+| SSLC | Maharish vidya mandir | 2015 - 2016 |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skill
+
+- Markdown.
+- HTML.
+- CSS. 
+- Javascript.
+- Jquery.
+
